@@ -1,1 +1,3 @@
-# Patel_D_DataViz_HW_01
+# Data Visialization of Olympic Data
+
+![](/images/data.jpg "data visualization banner")
