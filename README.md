@@ -1,6 +1,6 @@
 # Data Visialization of Olympic Data
 
-![](../Users/d_patel109038/Downloads/data.jpg "data visualization banner")
+![](data.jpg "data visualization banner")
 
 ## About the project
 
