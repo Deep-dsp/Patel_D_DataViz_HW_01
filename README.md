@@ -21,7 +21,7 @@ There are certain steps needs to be completed before making actual project using
 4. Create web page using ```HTML```, ```CSS``` and ```PYTHON```.
 5. Launch Page
 
-[click here](https://drive.google.com/open?id=1Y4-DeCiF2nZhCFGcvpLKcOR1e2ee7B9nTWfq1H9U1vE) to see outlines and steps of this project.
+[click here](https://drive.google.com/open?id=1Y4-DeCiF2nZhCFGcvpLKcOR1e2ee7B9nTWfq1H9U1vE) to see DOC outlines and steps of this project.
 
 ***IMPORTANT POINTS***
 
